@@ -1,0 +1,185 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+}
+ul{
+    
+    list-style: none;
+}
+
+
+
+
+
+
+header{
+    background: url('../Img/baner1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+
+}
+
+.logo{
+
+position: relative;
+
+top: 15px;
+}
+.navigation ul li{
+    margin: 0 20px;
+    padding-right: 20px;
+    display: inline-block;
+
+    position: relative;
+
+}
+
+
+.navigation ul li a{
+
+text-decoration: none;
+
+position: relative;
+
+left: 15px;
+
+top: 15px;
+
+color: white;
+
+text-transform: uppercase;
+}
+
+
+
+.main-section{
+   
+    padding-bottom: 240px;
+}
+.main-section .main-content{
+    width: 50%;
+    color: #fff;
+}
+.main-section .main-content .phone-number{
+    padding: 20px 40px;
+    display: inline-block;
+    
+    background-color: #00000054;
+  
+    font-size: 40px;
+}
+.main-section .main-content p{
+    font-size: 16px;
+    
+    margin: 15px 0;
+ 
+}
+.main-section .main-content span{
+    background: #fff;
+    height: 1px;
+    width: 20px;
+    display: inline-block;
+}
+.main-section .main-content .btnmain{
+    margin-top: 25px;
+}
+
+
+.main-section .main-content .mainbtn{
+
+text-decoration: none;
+
+background: #80808040;
+
+padding: 10px 61px;
+
+font-size: 20px;
+
+color: white;
+
+border-style: ridge;
+}
+
+
+
+.car{
+
+top: -60px;
+
+position: relative;
+
+
+
+left: 293px;
+}
+
+.arrow{
+
+position: relative;
+
+top: 247px;
+}
+
+.midle-section h2{
+    padding-top: -18px;
+    font-weight: 600;
+    font-size: 32px;
+    position: relative;
+    top: 204px;
+}
+.midle-section span{
+    display: inline-block;
+    background: #111;
+    height: 2px;
+    width: 20px;
+    position: relative;
+    top: 214px;
+}
+.midle-section p{
+    
+    font-weight: 400;
+    position: relative;
+    top: 233px;
+}
+
+
+.car-section{
+    background-color: #28282e;
+    color: #fff;
+    padding-top: 106px;
+    padding-bottom: 106px;
+}
+.car-section h2{
+    font-size: 32px;
+    font-weight: 500;
+}
+.car-section span{
+    display: inline-block;
+    background: #fff;
+    height: 2px;
+    width: 20px;
+}
+.car-section p{
+    margin: 15px 0;
+    font-size: 16px;
+    line-height: 25px;
+}
+.car-section .btncar{
+    padding: 8px 20px;
+    font-size: 14px;
+    border-style: ridge;
+    color: whitesmoke;
+    font-family:monospace;
+    text-decoration: none;
+}
+
+footer{
+    padding: 30px 0;
+    background-color: #ef4035;
+    color: #fff;
+    text-align: center;
+}
